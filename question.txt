@@ -1,0 +1,24 @@
+1
+	Would you like to play a game?
+	Yes
+	Great!
+	2
+	No
+	Awwww
+	0
+2
+	You are at a fork in the road. Do you go left or right?
+	Left
+	You fall off a cliff and die!
+	0
+	Right
+
+	3
+3
+	You see a small hut with lights inside. What do you do?
+	Knock on the door
+	You anger an ogre and he kills you
+	0
+	Leave it alone
+	You walk past it
+	2
